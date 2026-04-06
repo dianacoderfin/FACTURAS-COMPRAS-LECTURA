@@ -1,1 +1,1 @@
-
+print("Proyecto iniciado")
